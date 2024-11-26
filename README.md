@@ -5,7 +5,6 @@ POP network
 
 Hemi
 T3rn
-
-Rivalz
+Rivaz
 nWaku
 
